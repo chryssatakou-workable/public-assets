@@ -1,1 +1,1 @@
-# public-assets
+# workable-mcp
